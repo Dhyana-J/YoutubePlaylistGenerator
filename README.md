@@ -7,3 +7,6 @@
 2. open developer tools in chrome (on your youtube playlist tab)
 3. paste on console and hit enter
 4. it will show you URL, just bookmark it
+
+
+> Ref : https://www.labnol.org/internet/create-youtube-playlists/28827/
